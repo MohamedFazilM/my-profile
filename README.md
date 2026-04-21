@@ -14,8 +14,11 @@
 🤖 RPA Automation using UiPath  
 📍 Tamil Nadu, India  
 🚀 Currently looking for IT opportunities  
+## 📚 Currently Learning
 
----
+✔ Advanced Java  
+✔ SQL Queries  
+✔ Web Development Basics
 
 ## 🛠️ Tech Stack
 
@@ -82,8 +85,8 @@
 ## 🌐 Connect With Me
 
 📧 mohamedfazil.m10@gmail.com  
-🔗 https://linkedin.com/in/mohamed-fazil-m10  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohamedFazil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-fazil-m10)
 ---
 
 ⭐ From Mohamed Fazil
