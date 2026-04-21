@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohamed Fazil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;Data+Analytics+Enthusiast;RPA+Automation+Learner;Open+to+Job+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;Data+Analytics+Enthusiast;RPA+Automation+Learner;Open+to+IT+Opportunities" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 🎓 BSc Computer Science Graduate (2025)  
 💻 Passionate Java Developer  
-📊 Skilled in Tableau & Excel Analytics  
+📊 Skilled in Tableau, Excel & MySQL  
 🤖 RPA Automation using UiPath  
 📍 Tamil Nadu, India  
 🚀 Currently looking for IT opportunities  
@@ -23,7 +23,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🌐 Web
+### 🌐 Web Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
@@ -45,10 +45,10 @@
 
 ## 📂 Featured Project
 
-🚗 **Vehicle Rental System**
+### 🚗 Vehicle Rental System
 
-✔ Core Java console application  
-✔ Admin & customer modules  
+✔ Console-based Core Java application  
+✔ Admin & Customer modules  
 ✔ Booking & return workflow  
 ✔ Payment calculation logic  
 ✔ OOP concepts implementation  
@@ -66,19 +66,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedFazil10&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFazilM&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFazil10&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFazilM&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFazil10&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFazilM&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 
@@ -87,4 +86,4 @@
 
 ---
 
-⭐ From MohamedFazil10
+⭐ From Mohamed Fazil
