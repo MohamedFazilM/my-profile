@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohamed Fazil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;Data+Analytics+Enthusiast;RPA+Automation+Learner;Open+to+IT+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;RPA+Automation+Learner;Open+to+IT+Opportunities" />
 </p>
 
 ---
