@@ -19,6 +19,7 @@
 ✔ Advanced Java  
 ✔ SQL Queries  
 ✔ Web Development Basics
+✔ PHP language
 
 ## 🛠️ Tech Stack
 
