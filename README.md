@@ -26,7 +26,7 @@
 ### 👨‍💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Web Technologies
 
